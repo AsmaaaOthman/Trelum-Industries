@@ -764,7 +764,7 @@ h6 {
 	background: #fff;
 }
 
-.footer-info-bar .icon-bx-wraper.bx-style-1 {}
+/* .footer-info-bar .icon-bx-wraper.bx-style-1 {} */
 
 .footer-info-bar .icon-bx-wraper.bx-style-1 p,
 .footer-info-bar .icon-bx-wraper.bx-style-1 p a,
@@ -5238,7 +5238,7 @@ HOME 5 Box Header
 }
 
 /* homedemo */
-.header-nav .nav>li.homedemo {}
+/* .header-nav .nav>li.homedemo {} */
 
 .header-nav .nav>li.homedemo .mega-menu {
 	display: flex;
@@ -5428,7 +5428,7 @@ HOME 5 Box Header
 		font-size: 16px;
 	}
 
-	.header-nav .dlab-social-icon li a {}
+	/* .header-nav .dlab-social-icon li a {} */
 
 	.ft-contact .ft-contact-bx {
 		padding: 20px 20px 20px 75px;
@@ -6097,7 +6097,7 @@ HOME 5 Box Header
 	margin-bottom: 10px;
 }
 
-.dlab-team4 .dlab-social-icon li a.site-button.gray-light. .dlab-team5 .dlab-social-icon li a {
+.dlab-team4 .dlab-social-icon li a.site-button.gray-light .dlab-team5 .dlab-social-icon li a {
 	background-color: #e0e0e0;
 	color: #999;
 	line-height: 30px;
